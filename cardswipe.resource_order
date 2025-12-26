@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -16,13 +16,13 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"particle","order":2,"path":"sprites/particle/particle.yy",},
+  "ResourceOrderSettings":[
     {"name":"obj_game_mgr","order":2,"path":"objects/obj_game_mgr/obj_game_mgr.yy",},
     {"name":"obj_metrocard_reader","order":1,"path":"objects/obj_metrocard_reader/obj_metrocard_reader.yy",},
-    {"name":"spr_metrocard_reader","order":1,"path":"sprites/spr_metrocard_reader/spr_metrocard_reader.yy",},
     {"name":"obj_particle","order":4,"path":"objects/obj_particle/obj_particle.yy",},
-    {"name":"makeParticles","order":1,"path":"scripts/makeParticles/makeParticles.yy",},
     {"name":"obj_screenshake","order":3,"path":"objects/obj_screenshake/obj_screenshake.yy",},
+    {"name":"makeParticles","order":1,"path":"scripts/makeParticles/makeParticles.yy",},
+    {"name":"particle","order":2,"path":"sprites/particle/particle.yy",},
+    {"name":"spr_metrocard_reader","order":1,"path":"sprites/spr_metrocard_reader/spr_metrocard_reader.yy",},
   ],
 }
