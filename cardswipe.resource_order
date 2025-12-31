@@ -22,6 +22,7 @@
     {"name":"obj_particle","order":4,"path":"objects/obj_particle/obj_particle.yy",},
     {"name":"obj_screenshake","order":3,"path":"objects/obj_screenshake/obj_screenshake.yy",},
     {"name":"makeParticles","order":1,"path":"scripts/makeParticles/makeParticles.yy",},
+    {"name":"scaleCanvas","order":2,"path":"scripts/scaleCanvas/scaleCanvas.yy",},
     {"name":"particle","order":2,"path":"sprites/particle/particle.yy",},
     {"name":"spr_metrocard_reader","order":1,"path":"sprites/spr_metrocard_reader/spr_metrocard_reader.yy",},
   ],

@@ -42,6 +42,7 @@
     {"id":{"name":"obj_screenshake","path":"objects/obj_screenshake/obj_screenshake.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"makeParticles","path":"scripts/makeParticles/makeParticles.yy",},},
+    {"id":{"name":"scaleCanvas","path":"scripts/scaleCanvas/scaleCanvas.yy",},},
     {"id":{"name":"screenShake","path":"scripts/screenShake/screenShake.yy",},},
     {"id":{"name":"particle","path":"sprites/particle/particle.yy",},},
     {"id":{"name":"spr_metrocard_reader","path":"sprites/spr_metrocard_reader/spr_metrocard_reader.yy",},},

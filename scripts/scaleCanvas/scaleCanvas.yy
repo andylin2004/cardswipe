@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scaleCanvas",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scaleCanvas",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
